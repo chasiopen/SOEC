@@ -1,0 +1,44 @@
+Kilsina:
+  name        : "Kilsina"
+  bio         : "服务器管理组成员"
+  avatar      : "/assets/avatar/kilsina.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      #url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/extravagantman"
+      
+Jiejer:
+  name        : "Jieger"
+  bio         : "服务器管理组成员 三巨头之一 "
+  avatar      : "/assets/avatar/jieger.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      #url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/extravagantman"
+
+Caoge:
+  name        : "Caoge"
+  bio         : "服务器管理组成员 三巨头之一 羊驼帮帮主"
+  avatar      : "/assets/avatar/caoge.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      #url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/extravagantman"

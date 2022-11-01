@@ -26,8 +26,8 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/logo/logo256.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo/logo256.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "SOEC"# overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+masthead_title           : "SOEC" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "CHAsiopen"
   avatar           : "/assets/avatar/chasiopen.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Jiangsu China"
-  email            : "chasiopen@qq.com"
+  bio              : "终世纪腐竹"
+  location         : "中国 江苏"
+  email            : # "chasiopen@qq.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
