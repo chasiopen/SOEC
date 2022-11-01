@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN" #"en-US"
-title                    : "Story of the Endless Century"
+title                    : "终世纪"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SOEC"
@@ -24,9 +24,9 @@ description              : "SOEC Server Official Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/logo/logo256.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo/logo256.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "SOEC"# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "CHAsiopen"
+  avatar           : "/assets/avatar/chasiopen.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Jiangsu China"
+  email            : "chasiopen@qq.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
